@@ -39,13 +39,9 @@
     background-color: white;
     font-size: max(1vw, 13px);
     border-radius: 50px;
+    
 }
 
-
-
-
-button{
-    padding: 10px;
-    border-radius: 30%;
-    
+.button-order{
+    cursor: pointer; 
 }
