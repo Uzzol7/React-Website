@@ -1,2 +1,11 @@
 # React-Website
-This is some basic react website that i am going to create
+This will be a full stack MERN Website For Restaurant.
+We will use React for Front End , Node for Backend and Mongo DB for database . 
+
+
+Features: 
+User/ Admin Login
+Order Tracking
+Inventory Management
+
+
