@@ -9,3 +9,10 @@ Order Tracking
 Inventory Management
 
 
+
+Easy Setup Project
+Download this Project on your Local device
+CLI
+cd front-end
+npm update
+npm run dev
